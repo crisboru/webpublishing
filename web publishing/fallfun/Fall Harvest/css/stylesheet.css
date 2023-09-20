@@ -1,0 +1,26 @@
+
+html{margin-top:130px}
+
+img{width:50%; height:auto}
+
+
+
+h5{color:firebrick;font-family: sans-serif;font-size: 80px;text-align:center;background-color:darkred; background-blend-mode: hue}
+
+
+body{background-color:beige;margin-left: 40px;margin-right: 40px;}
+
+
+h1{color:firebrick;font-family:sans-serif; text-align: left;border-top-color:burlywood; border-top-style:inset;border-top-width:medium;}
+h2{font-family:sans-serif; color:palegoldenrod;font-style:oblique;line-height: 1px;font-weight: normal;font-size:18px}
+h3{font-family: sans-serif; color:darkred;text-align: left;font-style:normal;font-weight: normal} 
+h4{font-family: sans-serif;font-style:normal;font-weight: normal}
+
+
+#fallharvest{float:right;background-color:beige;border-bottom-style: ridge;border-left-style:groove}
+#Patriciag{float:left;border-color: beige;background-color:beige}
+#vocalfestival{float:right;background-color:beige}
+#camphalfblood{float:left;background-color: beige}
+#apple{float:right;background-color:beige}
+#maconcounty{float:left;background-color: beige}
+#frank{float:right;background-color: beige}
